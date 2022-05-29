@@ -1,0 +1,20 @@
+* {
+    border: 2px black;
+    padding: 20px;
+    margin: 0px;
+    
+  }
+h1{
+    color: red;
+    text-align: center;
+    text-size-adjust: 40px;
+    border: 2px green;
+}
+
+#index1{
+    border: 2px solid red;
+  padding: 25px;
+  background: url(mountain.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
